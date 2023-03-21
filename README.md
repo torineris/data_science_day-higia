@@ -10,9 +10,8 @@
   - Pacientes que realizaram cirurgia coronariana (Coronarianos.csv)
   - Imóveis para locação (aluguel.csv)
 - Notebooks Jupyter
-  - Utilizado na explicação das bibliotecas (Numpy _ Pandas.ipynb)
+  - Utilizado na explicação das bibliotecas (Numpy_e_Pandas.ipynb)
   - Para prática da biblioteca Pandas (Pratica pandas.ipynb)
   - Com Análise Exploratória
     - Coronarianos - Analise Exploratoria.ipynb
     - Aluguel de imoveis - Pandas.ipynb
-
